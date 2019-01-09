@@ -1,0 +1,8 @@
+
+.sass-cache/f8fa90d65f02566cccf46c29e2cc4c14f2a960ee/main.scssc
+*.~
+*.~
+_site
+.gitignore~
+_data/*.~
+*.yml~
