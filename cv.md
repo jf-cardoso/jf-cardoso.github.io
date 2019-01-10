@@ -5,5 +5,8 @@ title: CV
 
 # Things
 
-- I have done a lot of things.
-- I do a lot of things.
+- Things done
+- Things to do
+
+- More things done
+- More things to do
