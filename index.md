@@ -16,7 +16,7 @@ Home here
 - The home page title was {{ page.title }}.
 
 
-My adress <cardoso@iap.fr> is obfuscated.
+My adress < cardoso[at]iap[dot]fr> is obfuscated.
 
 
 Some fillin, some fillin, some fillin, some fillin, some fillin, some
